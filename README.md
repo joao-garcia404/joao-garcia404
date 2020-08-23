@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi guys, my name's João Vitor and I'm seventeen  👋
 
-<!--
+
 **joao-garcia404/joao-garcia404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Somethings about me 👦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📘 I’m currently studying React, React Native and Node at Rocketseat's GoStack bootcamp 🚀🚀🚀
+- 🔎 I’m looking for a internship in my city 🌆
+- ✔ I like to help others 
+- 💎I'm always learning something 
+- ❤ Coding is my passion 
+- ⚡ Fun fact: I love dogs 🐶
+
