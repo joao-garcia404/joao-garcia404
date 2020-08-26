@@ -3,7 +3,7 @@
 
 Somethings about me 👦
 
-- 📘 I’m currently studying React, React Native and Node at Rocketseat's GoStack bootcamp 🚀🚀🚀
+- 📘 I’m currently studying ReactJS, React Native and Node at Rocketseat's GoStack bootcamp 🚀🚀🚀
 - 🔎 I’m looking for a internship in my city 🌆
 - ✔ I like to help others 
 - 💎I'm always learning something 
