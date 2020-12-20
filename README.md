@@ -1,9 +1,9 @@
-### Hi guys, my name's João Vitor and I'm seventeen  👋
+##### Hi guys, my name's João Vitor and I'm seventeen  👋
 
 -------------------------------------------------------------------------------------------------------
 
 
-Somethings about me 👦
+### Somethings about me 👦
 
 - 📘 I’m currently studying ReactJS, React Native and Node at Rocketseat's GoStack bootcamp 🚀🚀🚀
 - 🔎 I’m looking for a first job experience in my city 🌆
@@ -33,6 +33,3 @@ Somethings about me 👦
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis"/></code>
 
 --------------------------------------------------------------------------------------------------------
-
-### Coding activity
-
