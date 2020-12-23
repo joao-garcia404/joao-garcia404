@@ -33,3 +33,8 @@
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis"/></code>
 
 --------------------------------------------------------------------------------------------------------
+
+### Social medias 
+
+<code><a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-garcia-89bba81b1/"> <img height="32" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" alt="LinkedIn"/></a></code>
+<code><a href="https://www.instagram.com/joaov_d3v/"> <img height="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png"/> </a></code>
