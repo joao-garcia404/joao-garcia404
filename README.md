@@ -1,7 +1,4 @@
-# Hi guys, my name's João Vitor and I'm seventeen  👋
-
--------------------------------------------------------------------------------------------------------
-
+## João Vitor Garcia 👋
 
 ### Somethings about me 👦
 
