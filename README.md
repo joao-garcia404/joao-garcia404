@@ -3,9 +3,8 @@
 ### Somethings about me 👦
 
 - 📘 I’m currently studying ReactJS, React Native and NodeJS 🚀🚀🚀
-- 🔎 I’m looking for a first job experience in my city 🌆
 - ✔ I like to help others dev's
-- 💎 I'm always learning something 
+- 💎 I'm always learning 
 - ❤ Coding is my passion 
 - ⚡ Fun fact: I love dogs 🐶
 
