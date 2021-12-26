@@ -2,7 +2,7 @@
 
 ### Somethings about me 👦
 
-- 📘 I’m currently studying ReactJS, React Native and NodeJS 🚀🚀🚀
+- 📘 I’m currently working with ReactJS and React Native 🚀🚀🚀
 - ✔ I like to help others dev's
 - 💎 I'm always learning 
 - ❤ Coding is my passion 
