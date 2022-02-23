@@ -6,7 +6,7 @@
 - ✔ I like to help others dev's
 - 💎 Always learning 
 - ❤ Coding is my passion 
-- ⚡ Fun fact: I love formula 1 🐶
+- ⚡ Fun fact: I love formula 1 🏎
 
 
 "Still We Rise" 🚀
