@@ -4,9 +4,9 @@
 
 - 📘 I’m currently working with ReactJS and React Native 🚀🚀🚀
 - ✔ I like to help others dev's
-- 💎 I'm always learning 
+- 💎 Always learning 
 - ❤ Coding is my passion 
-- ⚡ Fun fact: I love dogs 🐶
+- ⚡ Fun fact: I love formula 1 🐶
 
 
 "Still We Rise" 🚀
