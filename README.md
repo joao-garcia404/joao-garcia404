@@ -39,6 +39,4 @@
 
 ---------------------------------------------------------------------------------------------------------
 
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-garcia404&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-garcia404&layout=compact)](https://github.com/joao-garcia404/github-readme-stats)
