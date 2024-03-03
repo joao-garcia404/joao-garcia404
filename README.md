@@ -2,11 +2,11 @@
 
 ### Somethings about me 👦
 
-- 📘 I’m currently working with ReactJS, React Native and NodeJS 🚀🚀🚀
+- 📘 I’m currently working with ReactJS, React Native and NodeJS
 - ✔ I like to help others dev's
 - 💎 Always learning 
 - ❤ Coding is my passion 
-- ⚡ Fun fact: I love formula 1 🏎
+- ⚡ Fun fact: I love formula 1 and surfing 🏎 🏄🏽
 
 
 "Still We Rise" 💜
