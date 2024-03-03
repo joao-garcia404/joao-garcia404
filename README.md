@@ -26,7 +26,8 @@
 
 ### Currently i'm learning:
 
-<code><img height="32" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go"/></code>
+<code><img height="32" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png" alt="Rust"/></code>
 
 
 --------------------------------------------------------------------------------------------------------
