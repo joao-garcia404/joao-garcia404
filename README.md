@@ -20,15 +20,13 @@
 <code><img height="32" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-512.png" alt="NodeJS" /></code>
-
+<code><img height="32" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang"/></code>
 
 --------------------------------------------------------------------------------------------------------
 
 ### Currently i'm learning:
 
-<code><img height="32" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang"/></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png" alt="Rust"/></code>
-
 
 --------------------------------------------------------------------------------------------------------
 
