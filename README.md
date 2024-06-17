@@ -2,7 +2,7 @@
 
 ### Somethings about me 👦
 
-- 📘 I’m currently working with ReactJS, React Native and NodeJS
+- 📘 I’m currently working with Golang, ReactJS, React Native and NodeJS
 - ✔ I like to help others dev's
 - 💎 Always learning 
 - ❤ Coding is my passion 
