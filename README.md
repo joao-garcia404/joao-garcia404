@@ -25,7 +25,7 @@
 
 ### Currently i'm learning:
 
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png" alt="Rust"/></code>
+<code><img height="32" src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2048-x341msji.png" alt="Rust"/></code>
 
 --------------------------------------------------------------------------------------------------------
 
