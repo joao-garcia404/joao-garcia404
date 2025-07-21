@@ -25,7 +25,7 @@
 
 ### Currently i'm learning:
 
-<code><img height="32" src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2048-x341msji.png" alt="Rust"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="Rust"/></code>
 
 --------------------------------------------------------------------------------------------------------
 
